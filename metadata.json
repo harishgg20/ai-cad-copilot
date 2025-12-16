@@ -1,0 +1,7 @@
+{
+  "name": "AI CAD Copilot",
+  "description": "A conversational AI-powered CAD application for designing 3D models using natural language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
